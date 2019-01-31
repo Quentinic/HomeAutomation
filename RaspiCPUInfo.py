@@ -8,10 +8,10 @@ import re
 #domoticz server ip
 domoticzserver = "127.0.0.1:8080"
 #device idx
-tempIdx = "84"
-cpuUsageIdx = "140"
-diskUsageIdx = "141"
-diskStatisticsIdx = "143"
+tempIdx = ""
+cpuUsageIdx = ""
+diskUsageIdx = ""
+diskStatisticsIdx = ""
 
 def domoticzrequest(url):
         request = urllib2.Request(url)
