@@ -1,0 +1,1 @@
+miplug --ip 192.168.xxx.yyy --token token $1
