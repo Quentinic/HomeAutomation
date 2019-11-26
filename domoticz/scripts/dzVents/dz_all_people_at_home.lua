@@ -9,7 +9,7 @@ return {
 	-- can be a combination:
 	on = {
 		devices = {
-		    '*@ Home' -- all family members @ Home dummy device, like 'Quentin @ Home'
+		    '*@ Home' -- all family members @ Home dummy device, like 'Qs @ Home'
 			--'People at Home'
 		},
 		timer = {
